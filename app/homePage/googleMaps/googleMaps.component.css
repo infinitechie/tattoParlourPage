@@ -1,0 +1,24 @@
+agm-map {
+  height: 70%;
+  width: 100%;
+  /*opacity: 0.2;*/
+  all: revert;
+  
+}
+
+a {
+  color: dodgerblue;
+  list-style: none;
+  border: none;
+}
+
+.container agm-info-window {
+   all: revert;
+}
+
+.container {
+  background-color: white;
+  
+  -webkit-filter: grayscale(100%);
+filter: grayscale(100%);
+}
